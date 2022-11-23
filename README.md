@@ -1,2 +1,5 @@
-# digital-breakthrough
-Вigital breakthrough
+![image](https://user-images.githubusercontent.com/101212758/203489100-f3240ad6-ec8c-4f3e-923a-1ac11be0ab2f.png)
+
+# Цифровой прорыв
+В этом репозитории собраны мои решения при участии в чемпионате "Цифровой прорыв".  
+Названия папок соответствуют чемпионатам.
